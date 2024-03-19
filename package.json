@@ -1,7 +1,7 @@
 {
-  "name": "snorlaxcave",
+  "name": "EGYPT",
   "version": "1.0.0",
-  "description": "Snorlax's Cave",
+  "description": "Egypt",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -11,9 +11,9 @@
     "start": "node index.js"
   },
   "keywords": [
-    "proxy"
+    "Egypt"
   ],
-  "author": "",
+  "author": "Mak",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@tomphttp/bare-server-node": "^1.2.6",
